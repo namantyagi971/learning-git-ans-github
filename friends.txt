@@ -1,8 +1,5 @@
 naman tyagi
-harshit raj raghav
-parupalli vamsi
-parikshit
-priyanshu
-navya singla
-parmeet singh kalsi
-naman kumar singh
+welcome to naman tyagi blog
+we will discuss about full stack
+web development and nodejs
+stay tuned for more updates
